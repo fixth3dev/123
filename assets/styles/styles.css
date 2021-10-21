@@ -1,0 +1,11 @@
+html,
+body {
+  margin: 0;
+  font-family: "Roboto";
+  color: #fcfcfc;
+  background-image: url("assets/img/background.png");
+  background: #005F73;
+  font-size: 100.5%;
+}
+
+
